@@ -3,6 +3,5 @@
 <br>Let’s look at Static Blocks Of Code and static methods practical code snippets.
 <br>If you are interested in more about JAVA variables and how they work go through this Medium article. </p>
 <p>
-<a href=https://medium.com/@rookantha">Visit Java Variables</a>
-</p>
+<p><a href="https://medium.com/@rookantha">Visit Java Variables</a></p>
 
